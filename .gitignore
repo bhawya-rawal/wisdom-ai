@@ -1,0 +1,39 @@
+.env
+.env.*
+!.env.example
+
+# Python
+.venv/
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Local databases
+god_ai.db
+
+# Large scripture CSVs (stored locally, not in git)
+Bhagwad_Gita.csv
+The Quran Dataset.csv
+t_kjv.csv
+
+# Generated media
+media/audio/*.mp3
+media/images/*.png
+
+# Node / Next.js
+node_modules/
+.next/
+.turbo/
+package-lock.json
+
+# Docker
+*.log
+
+# OS / editor junk
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+.idea/
+.vscode/

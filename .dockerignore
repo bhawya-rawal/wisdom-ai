@@ -1,0 +1,21 @@
+.venv
+__pycache__/
+*.py[cod]
+
+# Git metadata
+.git
+.gitignore
+
+# Local databases and media output
+god_ai.db
+media/
+
+# Node / Next.js artifacts inside the repo
+web/node_modules/
+web/.next/
+web/.turbo/
+
+# OS/editor junk
+.DS_Store
+Thumbs.db
+*.log
