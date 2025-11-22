@@ -74,6 +74,9 @@ JWT_SECRET = os.getenv("JWT_SECRET", "change_this_secret_key_please")
 JWT_ALGORITHM = "HS256"
 ACCESS_TOKEN_EXPIRE_MINUTES = 60 * 24 * 30  # 30 days
 DATABASE_URL = os.getenv("DATABASE_URL", "sqlite:///./god_ai.db")
+# Render gives postgres:// but SQLAlchemy 2.x requires postgresql://
+if DATABASE_URL.startswith("postgres://"):
+    DATABASE_URL = DATABASE_URL.replace("postgres://", "postgresql://", 1)
 MEDIA_ROOT = os.getenv("MEDIA_ROOT", "./media")
 
 # Create media directories

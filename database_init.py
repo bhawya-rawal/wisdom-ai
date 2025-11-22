@@ -14,6 +14,8 @@ from main import User, Verse, hash_password
 
 # Database configuration
 DATABASE_URL = os.getenv("DATABASE_URL", "sqlite:///./god_ai.db")
+if DATABASE_URL.startswith("postgres://"):
+    DATABASE_URL = DATABASE_URL.replace("postgres://", "postgresql://", 1)
 ADMIN_EMAIL = os.getenv("ADMIN_EMAIL", "admin@godai.com")
 ADMIN_PASSWORD = os.getenv("ADMIN_PASSWORD", "admin123")
 ADMIN_NAME = os.getenv("ADMIN_NAME", "God AI Admin")
