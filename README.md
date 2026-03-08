@@ -128,6 +128,4 @@ Project Scripts
 - start.py: helper to create `.env`, install requirements, init DB, and run the server
 - scripts/start_dev.py: convenience script for dev workflows
 
-License
-- Add your license here (e.g., MIT) if applicable
 
