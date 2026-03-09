@@ -1,0 +1,602 @@
+[
+  {
+    "id": 1,
+    "question": "How do I deal with grief?",
+    "ground_truth": "Verses guiding on grief and finding spiritual peace.",
+    "category": "grief"
+  },
+  {
+    "id": 2,
+    "question": "What do scriptures say about joy?",
+    "ground_truth": "Verses guiding on joy and finding spiritual peace.",
+    "category": "joy"
+  },
+  {
+    "id": 3,
+    "question": "Where can I find comfort when facing anger?",
+    "ground_truth": "Verses guiding on anger and finding spiritual peace.",
+    "category": "anger"
+  },
+  {
+    "id": 4,
+    "question": "Can you help me overcome peace?",
+    "ground_truth": "Verses guiding on peace and finding spiritual peace.",
+    "category": "peace"
+  },
+  {
+    "id": 5,
+    "question": "What is the spiritual meaning of courage?",
+    "ground_truth": "Verses guiding on courage and finding spiritual peace.",
+    "category": "courage"
+  },
+  {
+    "id": 6,
+    "question": "How can I help others experiencing doubt?",
+    "ground_truth": "Verses guiding on doubt and finding spiritual peace.",
+    "category": "doubt"
+  },
+  {
+    "id": 7,
+    "question": "Guide me through a time of patience.",
+    "ground_truth": "Verses guiding on patience and finding spiritual peace.",
+    "category": "patience"
+  },
+  {
+    "id": 8,
+    "question": "What verses discuss love and strength?",
+    "ground_truth": "Verses guiding on love and finding spiritual peace.",
+    "category": "love"
+  },
+  {
+    "id": 9,
+    "question": "I feel consumed by temptation. What should I do?",
+    "ground_truth": "Verses guiding on temptation and finding spiritual peace.",
+    "category": "temptation"
+  },
+  {
+    "id": 10,
+    "question": "Explain how to handle purpose spiritually.",
+    "ground_truth": "Verses guiding on purpose and finding spiritual peace.",
+    "category": "purpose"
+  },
+  {
+    "id": 11,
+    "question": "How do I deal with grief?",
+    "ground_truth": "Verses guiding on grief and finding spiritual peace.",
+    "category": "grief"
+  },
+  {
+    "id": 12,
+    "question": "What do scriptures say about joy?",
+    "ground_truth": "Verses guiding on joy and finding spiritual peace.",
+    "category": "joy"
+  },
+  {
+    "id": 13,
+    "question": "Where can I find comfort when facing anger?",
+    "ground_truth": "Verses guiding on anger and finding spiritual peace.",
+    "category": "anger"
+  },
+  {
+    "id": 14,
+    "question": "Can you help me overcome peace?",
+    "ground_truth": "Verses guiding on peace and finding spiritual peace.",
+    "category": "peace"
+  },
+  {
+    "id": 15,
+    "question": "What is the spiritual meaning of courage?",
+    "ground_truth": "Verses guiding on courage and finding spiritual peace.",
+    "category": "courage"
+  },
+  {
+    "id": 16,
+    "question": "How can I help others experiencing doubt?",
+    "ground_truth": "Verses guiding on doubt and finding spiritual peace.",
+    "category": "doubt"
+  },
+  {
+    "id": 17,
+    "question": "Guide me through a time of patience.",
+    "ground_truth": "Verses guiding on patience and finding spiritual peace.",
+    "category": "patience"
+  },
+  {
+    "id": 18,
+    "question": "What verses discuss love and strength?",
+    "ground_truth": "Verses guiding on love and finding spiritual peace.",
+    "category": "love"
+  },
+  {
+    "id": 19,
+    "question": "I feel consumed by temptation. What should I do?",
+    "ground_truth": "Verses guiding on temptation and finding spiritual peace.",
+    "category": "temptation"
+  },
+  {
+    "id": 20,
+    "question": "Explain how to handle purpose spiritually.",
+    "ground_truth": "Verses guiding on purpose and finding spiritual peace.",
+    "category": "purpose"
+  },
+  {
+    "id": 21,
+    "question": "How do I deal with grief?",
+    "ground_truth": "Verses guiding on grief and finding spiritual peace.",
+    "category": "grief"
+  },
+  {
+    "id": 22,
+    "question": "What do scriptures say about joy?",
+    "ground_truth": "Verses guiding on joy and finding spiritual peace.",
+    "category": "joy"
+  },
+  {
+    "id": 23,
+    "question": "Where can I find comfort when facing anger?",
+    "ground_truth": "Verses guiding on anger and finding spiritual peace.",
+    "category": "anger"
+  },
+  {
+    "id": 24,
+    "question": "Can you help me overcome peace?",
+    "ground_truth": "Verses guiding on peace and finding spiritual peace.",
+    "category": "peace"
+  },
+  {
+    "id": 25,
+    "question": "What is the spiritual meaning of courage?",
+    "ground_truth": "Verses guiding on courage and finding spiritual peace.",
+    "category": "courage"
+  },
+  {
+    "id": 26,
+    "question": "How can I help others experiencing doubt?",
+    "ground_truth": "Verses guiding on doubt and finding spiritual peace.",
+    "category": "doubt"
+  },
+  {
+    "id": 27,
+    "question": "Guide me through a time of patience.",
+    "ground_truth": "Verses guiding on patience and finding spiritual peace.",
+    "category": "patience"
+  },
+  {
+    "id": 28,
+    "question": "What verses discuss love and strength?",
+    "ground_truth": "Verses guiding on love and finding spiritual peace.",
+    "category": "love"
+  },
+  {
+    "id": 29,
+    "question": "I feel consumed by temptation. What should I do?",
+    "ground_truth": "Verses guiding on temptation and finding spiritual peace.",
+    "category": "temptation"
+  },
+  {
+    "id": 30,
+    "question": "Explain how to handle purpose spiritually.",
+    "ground_truth": "Verses guiding on purpose and finding spiritual peace.",
+    "category": "purpose"
+  },
+  {
+    "id": 31,
+    "question": "How do I deal with grief?",
+    "ground_truth": "Verses guiding on grief and finding spiritual peace.",
+    "category": "grief"
+  },
+  {
+    "id": 32,
+    "question": "What do scriptures say about joy?",
+    "ground_truth": "Verses guiding on joy and finding spiritual peace.",
+    "category": "joy"
+  },
+  {
+    "id": 33,
+    "question": "Where can I find comfort when facing anger?",
+    "ground_truth": "Verses guiding on anger and finding spiritual peace.",
+    "category": "anger"
+  },
+  {
+    "id": 34,
+    "question": "Can you help me overcome peace?",
+    "ground_truth": "Verses guiding on peace and finding spiritual peace.",
+    "category": "peace"
+  },
+  {
+    "id": 35,
+    "question": "What is the spiritual meaning of courage?",
+    "ground_truth": "Verses guiding on courage and finding spiritual peace.",
+    "category": "courage"
+  },
+  {
+    "id": 36,
+    "question": "How can I help others experiencing doubt?",
+    "ground_truth": "Verses guiding on doubt and finding spiritual peace.",
+    "category": "doubt"
+  },
+  {
+    "id": 37,
+    "question": "Guide me through a time of patience.",
+    "ground_truth": "Verses guiding on patience and finding spiritual peace.",
+    "category": "patience"
+  },
+  {
+    "id": 38,
+    "question": "What verses discuss love and strength?",
+    "ground_truth": "Verses guiding on love and finding spiritual peace.",
+    "category": "love"
+  },
+  {
+    "id": 39,
+    "question": "I feel consumed by temptation. What should I do?",
+    "ground_truth": "Verses guiding on temptation and finding spiritual peace.",
+    "category": "temptation"
+  },
+  {
+    "id": 40,
+    "question": "Explain how to handle purpose spiritually.",
+    "ground_truth": "Verses guiding on purpose and finding spiritual peace.",
+    "category": "purpose"
+  },
+  {
+    "id": 41,
+    "question": "How do I deal with grief?",
+    "ground_truth": "Verses guiding on grief and finding spiritual peace.",
+    "category": "grief"
+  },
+  {
+    "id": 42,
+    "question": "What do scriptures say about joy?",
+    "ground_truth": "Verses guiding on joy and finding spiritual peace.",
+    "category": "joy"
+  },
+  {
+    "id": 43,
+    "question": "Where can I find comfort when facing anger?",
+    "ground_truth": "Verses guiding on anger and finding spiritual peace.",
+    "category": "anger"
+  },
+  {
+    "id": 44,
+    "question": "Can you help me overcome peace?",
+    "ground_truth": "Verses guiding on peace and finding spiritual peace.",
+    "category": "peace"
+  },
+  {
+    "id": 45,
+    "question": "What is the spiritual meaning of courage?",
+    "ground_truth": "Verses guiding on courage and finding spiritual peace.",
+    "category": "courage"
+  },
+  {
+    "id": 46,
+    "question": "How can I help others experiencing doubt?",
+    "ground_truth": "Verses guiding on doubt and finding spiritual peace.",
+    "category": "doubt"
+  },
+  {
+    "id": 47,
+    "question": "Guide me through a time of patience.",
+    "ground_truth": "Verses guiding on patience and finding spiritual peace.",
+    "category": "patience"
+  },
+  {
+    "id": 48,
+    "question": "What verses discuss love and strength?",
+    "ground_truth": "Verses guiding on love and finding spiritual peace.",
+    "category": "love"
+  },
+  {
+    "id": 49,
+    "question": "I feel consumed by temptation. What should I do?",
+    "ground_truth": "Verses guiding on temptation and finding spiritual peace.",
+    "category": "temptation"
+  },
+  {
+    "id": 50,
+    "question": "Explain how to handle purpose spiritually.",
+    "ground_truth": "Verses guiding on purpose and finding spiritual peace.",
+    "category": "purpose"
+  },
+  {
+    "id": 51,
+    "question": "How do I deal with grief?",
+    "ground_truth": "Verses guiding on grief and finding spiritual peace.",
+    "category": "grief"
+  },
+  {
+    "id": 52,
+    "question": "What do scriptures say about joy?",
+    "ground_truth": "Verses guiding on joy and finding spiritual peace.",
+    "category": "joy"
+  },
+  {
+    "id": 53,
+    "question": "Where can I find comfort when facing anger?",
+    "ground_truth": "Verses guiding on anger and finding spiritual peace.",
+    "category": "anger"
+  },
+  {
+    "id": 54,
+    "question": "Can you help me overcome peace?",
+    "ground_truth": "Verses guiding on peace and finding spiritual peace.",
+    "category": "peace"
+  },
+  {
+    "id": 55,
+    "question": "What is the spiritual meaning of courage?",
+    "ground_truth": "Verses guiding on courage and finding spiritual peace.",
+    "category": "courage"
+  },
+  {
+    "id": 56,
+    "question": "How can I help others experiencing doubt?",
+    "ground_truth": "Verses guiding on doubt and finding spiritual peace.",
+    "category": "doubt"
+  },
+  {
+    "id": 57,
+    "question": "Guide me through a time of patience.",
+    "ground_truth": "Verses guiding on patience and finding spiritual peace.",
+    "category": "patience"
+  },
+  {
+    "id": 58,
+    "question": "What verses discuss love and strength?",
+    "ground_truth": "Verses guiding on love and finding spiritual peace.",
+    "category": "love"
+  },
+  {
+    "id": 59,
+    "question": "I feel consumed by temptation. What should I do?",
+    "ground_truth": "Verses guiding on temptation and finding spiritual peace.",
+    "category": "temptation"
+  },
+  {
+    "id": 60,
+    "question": "Explain how to handle purpose spiritually.",
+    "ground_truth": "Verses guiding on purpose and finding spiritual peace.",
+    "category": "purpose"
+  },
+  {
+    "id": 61,
+    "question": "How do I deal with grief?",
+    "ground_truth": "Verses guiding on grief and finding spiritual peace.",
+    "category": "grief"
+  },
+  {
+    "id": 62,
+    "question": "What do scriptures say about joy?",
+    "ground_truth": "Verses guiding on joy and finding spiritual peace.",
+    "category": "joy"
+  },
+  {
+    "id": 63,
+    "question": "Where can I find comfort when facing anger?",
+    "ground_truth": "Verses guiding on anger and finding spiritual peace.",
+    "category": "anger"
+  },
+  {
+    "id": 64,
+    "question": "Can you help me overcome peace?",
+    "ground_truth": "Verses guiding on peace and finding spiritual peace.",
+    "category": "peace"
+  },
+  {
+    "id": 65,
+    "question": "What is the spiritual meaning of courage?",
+    "ground_truth": "Verses guiding on courage and finding spiritual peace.",
+    "category": "courage"
+  },
+  {
+    "id": 66,
+    "question": "How can I help others experiencing doubt?",
+    "ground_truth": "Verses guiding on doubt and finding spiritual peace.",
+    "category": "doubt"
+  },
+  {
+    "id": 67,
+    "question": "Guide me through a time of patience.",
+    "ground_truth": "Verses guiding on patience and finding spiritual peace.",
+    "category": "patience"
+  },
+  {
+    "id": 68,
+    "question": "What verses discuss love and strength?",
+    "ground_truth": "Verses guiding on love and finding spiritual peace.",
+    "category": "love"
+  },
+  {
+    "id": 69,
+    "question": "I feel consumed by temptation. What should I do?",
+    "ground_truth": "Verses guiding on temptation and finding spiritual peace.",
+    "category": "temptation"
+  },
+  {
+    "id": 70,
+    "question": "Explain how to handle purpose spiritually.",
+    "ground_truth": "Verses guiding on purpose and finding spiritual peace.",
+    "category": "purpose"
+  },
+  {
+    "id": 71,
+    "question": "How do I deal with grief?",
+    "ground_truth": "Verses guiding on grief and finding spiritual peace.",
+    "category": "grief"
+  },
+  {
+    "id": 72,
+    "question": "What do scriptures say about joy?",
+    "ground_truth": "Verses guiding on joy and finding spiritual peace.",
+    "category": "joy"
+  },
+  {
+    "id": 73,
+    "question": "Where can I find comfort when facing anger?",
+    "ground_truth": "Verses guiding on anger and finding spiritual peace.",
+    "category": "anger"
+  },
+  {
+    "id": 74,
+    "question": "Can you help me overcome peace?",
+    "ground_truth": "Verses guiding on peace and finding spiritual peace.",
+    "category": "peace"
+  },
+  {
+    "id": 75,
+    "question": "What is the spiritual meaning of courage?",
+    "ground_truth": "Verses guiding on courage and finding spiritual peace.",
+    "category": "courage"
+  },
+  {
+    "id": 76,
+    "question": "How can I help others experiencing doubt?",
+    "ground_truth": "Verses guiding on doubt and finding spiritual peace.",
+    "category": "doubt"
+  },
+  {
+    "id": 77,
+    "question": "Guide me through a time of patience.",
+    "ground_truth": "Verses guiding on patience and finding spiritual peace.",
+    "category": "patience"
+  },
+  {
+    "id": 78,
+    "question": "What verses discuss love and strength?",
+    "ground_truth": "Verses guiding on love and finding spiritual peace.",
+    "category": "love"
+  },
+  {
+    "id": 79,
+    "question": "I feel consumed by temptation. What should I do?",
+    "ground_truth": "Verses guiding on temptation and finding spiritual peace.",
+    "category": "temptation"
+  },
+  {
+    "id": 80,
+    "question": "Explain how to handle purpose spiritually.",
+    "ground_truth": "Verses guiding on purpose and finding spiritual peace.",
+    "category": "purpose"
+  },
+  {
+    "id": 81,
+    "question": "How do I deal with grief?",
+    "ground_truth": "Verses guiding on grief and finding spiritual peace.",
+    "category": "grief"
+  },
+  {
+    "id": 82,
+    "question": "What do scriptures say about joy?",
+    "ground_truth": "Verses guiding on joy and finding spiritual peace.",
+    "category": "joy"
+  },
+  {
+    "id": 83,
+    "question": "Where can I find comfort when facing anger?",
+    "ground_truth": "Verses guiding on anger and finding spiritual peace.",
+    "category": "anger"
+  },
+  {
+    "id": 84,
+    "question": "Can you help me overcome peace?",
+    "ground_truth": "Verses guiding on peace and finding spiritual peace.",
+    "category": "peace"
+  },
+  {
+    "id": 85,
+    "question": "What is the spiritual meaning of courage?",
+    "ground_truth": "Verses guiding on courage and finding spiritual peace.",
+    "category": "courage"
+  },
+  {
+    "id": 86,
+    "question": "How can I help others experiencing doubt?",
+    "ground_truth": "Verses guiding on doubt and finding spiritual peace.",
+    "category": "doubt"
+  },
+  {
+    "id": 87,
+    "question": "Guide me through a time of patience.",
+    "ground_truth": "Verses guiding on patience and finding spiritual peace.",
+    "category": "patience"
+  },
+  {
+    "id": 88,
+    "question": "What verses discuss love and strength?",
+    "ground_truth": "Verses guiding on love and finding spiritual peace.",
+    "category": "love"
+  },
+  {
+    "id": 89,
+    "question": "I feel consumed by temptation. What should I do?",
+    "ground_truth": "Verses guiding on temptation and finding spiritual peace.",
+    "category": "temptation"
+  },
+  {
+    "id": 90,
+    "question": "Explain how to handle purpose spiritually.",
+    "ground_truth": "Verses guiding on purpose and finding spiritual peace.",
+    "category": "purpose"
+  },
+  {
+    "id": 91,
+    "question": "How do I deal with grief?",
+    "ground_truth": "Verses guiding on grief and finding spiritual peace.",
+    "category": "grief"
+  },
+  {
+    "id": 92,
+    "question": "What do scriptures say about joy?",
+    "ground_truth": "Verses guiding on joy and finding spiritual peace.",
+    "category": "joy"
+  },
+  {
+    "id": 93,
+    "question": "Where can I find comfort when facing anger?",
+    "ground_truth": "Verses guiding on anger and finding spiritual peace.",
+    "category": "anger"
+  },
+  {
+    "id": 94,
+    "question": "Can you help me overcome peace?",
+    "ground_truth": "Verses guiding on peace and finding spiritual peace.",
+    "category": "peace"
+  },
+  {
+    "id": 95,
+    "question": "What is the spiritual meaning of courage?",
+    "ground_truth": "Verses guiding on courage and finding spiritual peace.",
+    "category": "courage"
+  },
+  {
+    "id": 96,
+    "question": "How can I help others experiencing doubt?",
+    "ground_truth": "Verses guiding on doubt and finding spiritual peace.",
+    "category": "doubt"
+  },
+  {
+    "id": 97,
+    "question": "Guide me through a time of patience.",
+    "ground_truth": "Verses guiding on patience and finding spiritual peace.",
+    "category": "patience"
+  },
+  {
+    "id": 98,
+    "question": "What verses discuss love and strength?",
+    "ground_truth": "Verses guiding on love and finding spiritual peace.",
+    "category": "love"
+  },
+  {
+    "id": 99,
+    "question": "I feel consumed by temptation. What should I do?",
+    "ground_truth": "Verses guiding on temptation and finding spiritual peace.",
+    "category": "temptation"
+  },
+  {
+    "id": 100,
+    "question": "Explain how to handle purpose spiritually.",
+    "ground_truth": "Verses guiding on purpose and finding spiritual peace.",
+    "category": "purpose"
+  }
+]
